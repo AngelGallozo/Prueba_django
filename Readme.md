@@ -5,7 +5,7 @@
 >>> 4. Ejecutar las migraciones:  ```python manage.py migrate ```
 >>> 5. Levantar el servicio:  ```python manage.py runserver``` 
 
-Luego por defecto el servicio estara escuchado en ```localhost:8000```.
+Luego por defecto el servicio estara escuchando en ```localhost:8000```.
 
 ## Especificaciones del proyecto
 El proyecto tiene 3 páginas:
